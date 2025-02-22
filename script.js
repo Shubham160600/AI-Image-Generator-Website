@@ -1,4 +1,4 @@
-// index.js
+// script.js
 
 let generateImageForm = 
     document.getElementById('generate-image-form');
